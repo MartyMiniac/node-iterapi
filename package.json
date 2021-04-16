@@ -1,0 +1,46 @@
+{
+  "name": "node-iterapi",
+  "version": "1.0.0",
+  "description": "This is a promise based node library of iterapi that provides you with the details available in the student portal of Institute of Technical Education and Research of Siksha 'O' Anusandhan University, Bhubaneshwar.",
+  "main": "node-iterapi.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MartyMiniac/node-iterapi.git"
+  },
+  "keywords": [
+    "iter",
+    "iterapi",
+    "node-iterapi",
+    "node",
+    "iterapi",
+    "node",
+    "iter",
+    "api",
+    "node",
+    "soa",
+    "api",
+    "node",
+    "soaapi",
+    "node-soaapi",
+    "soapi",
+    "soa",
+    "iter",
+    "student",
+    "portal",
+    "soa",
+    "student",
+    "portal"
+  ],
+  "author": "Rohan Verma <rohanvermaara@gmail.com> (https://github.com/MartyMiniac)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MartyMiniac/node-iterapi/issues"
+  },
+  "homepage": "https://github.com/MartyMiniac/node-iterapi#readme",
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
+}
